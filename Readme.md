@@ -11,7 +11,7 @@ Website 👉 https://bit.ly/2zBtFed
 
   `termux-setup-storage`
 
-  `git clone https://github.com/XTuyul/TRXwebmining`
+  `git clone https://github.com/tommydear/TRXwebmining`
 
   `cd TRXwebmining`
 
